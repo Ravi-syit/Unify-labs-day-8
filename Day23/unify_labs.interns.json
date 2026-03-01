@@ -1,0 +1,24 @@
+[{
+  "_id": {
+    "$oid": "69a4960af27c7ae717b9b20c"
+  },
+  "name": "Prashant Vishwakarma",
+  "role": "Frontend Intern",
+  "joinedDate": "2026-02-01"
+},
+{
+  "_id": {
+    "$oid": "69a4962cf27c7ae717b9b20e"
+  },
+  "name": "Amit Sharma",
+  "role": "Backend Intern",
+  "joinedDate": "2026-01-15"
+},
+{
+  "_id": {
+    "$oid": "69a49634f27c7ae717b9b210"
+  },
+  "name": "Sneha Patel",
+  "role": "Data Analyst Intern",
+  "joinedDate": "2026-02-10"
+}]

@@ -1,0 +1,26 @@
+# 🚀 Day 23/28 – MongoDB Setup & Database Creation  
+
+Part of my 28 Days Web Development Journey with @UnifyLabs 💻  
+
+
+
+## 📌 Learning Objectives
+
+- Install MongoDB Community Server & MongoDB Compass  
+- Establish a connection via local `27017` port  
+- Create a database named `unify_labs`  
+- Create a collection named `interns`  
+- Insert 3 sample documents using MongoDB Compass GUI  
+
+---
+
+## 🛠️ Environment Setup
+
+##1️⃣ Install MongoDB Community Server
+- Downloaded MongoDB MSI installer  
+- Completed installation with default settings  
+- Installed MongoDB as a Windows Service  
+
+## 2️⃣ Verify Installation
+```bash
+mongosh --version
